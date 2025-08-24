@@ -8,6 +8,7 @@
   <modelVersion>4.0.0</modelVersion>
   <artifactId>Hook</artifactId>
   <build>
+    <directory>${project.basedir}/../target/jars</directory>
     <finalName>hook</finalName>
     <plugins>
       <plugin>
